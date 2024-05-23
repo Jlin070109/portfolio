@@ -1,6 +1,6 @@
 # Software Engineer / Data Analyst
 
-#### Technical Skills: Python (pandas, scipy, numpy, matplotlib, scikit-learn, tensorflow, keras, pytorch, requests) SQLlite, Azure, C++, MATLAB, R, Java
+#### Technical Skills: Python (pandas, scipy, numpy, matplotlib, scikit-learn, tensorflow, keras, pytorch, requests), SQLlite, Microsoft Azure, C++, MATLAB, R, Java
 
 ## Education	        		
 B.S., Computational Finance and Risk Management | University of Washington (_Jun. 2024_) 
