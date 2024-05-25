@@ -7,7 +7,7 @@ B.S., Computational Finance and Risk Management | University of Washington (_Jun
 
 ## Work Experience
 **Marketing Specialist @ Wewave (_Aug. 2021 – Jan. 2022_)**
-**Skills used: Cross-functional Teamwork, Critical Thinking, Jira, Slack** 
+- **Skills used: Cross-functional Teamwork, Critical Thinking, Jira, Slack** 
 - Led the design of concise educational material for novice investors in collaboration with the engineering and UI/UX teams using Jira and Slack over 4 months, resulting in a 150% improvement in user retention. 
 - Facilitated a 40% user increase through in-depth user and product research analysis on functions, features, and interfaces of the trading tools and methods, and drafted potential solutions and adjustments.
 - Developed 500+ connections with a target audience on multiple social media platforms, leading to an improvement of 300% in exposure online. 
