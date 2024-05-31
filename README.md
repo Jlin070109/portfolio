@@ -1,4 +1,4 @@
-# Software Engineer / Data Analyst
+# Data Scientist / Software Developer
 
 #### Technical Skills: Python (pandas, scipy, numpy, matplotlib, scikit-learn, tensorflow, keras, pytorch, requests), SQLlite, Microsoft Azure, C++, MATLAB, R, Java
 
